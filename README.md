@@ -14,7 +14,7 @@
       "começo👶🏻": "Um simples 'Hello World'",
       "evolução🚀": "Projetos pessoais",
       "fraseDeEfeito": "Sempre escolha o mago!🧙‍♂️"
-      }
+    }
   }
   ```
   <div align="center">
