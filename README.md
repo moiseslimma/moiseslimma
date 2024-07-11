@@ -3,21 +3,28 @@
 
 ## My Skills
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Styled-component](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,react,css,tailwind,html,&theme=dark"/>                               
+
+  ```json
+  {
+    "🙋🏻‍♂️": "Moisés Lima",
+    "👨🏻‍💻": "Desenvolvedor",
+    "🎓": "Cursando Sistemas para Internet",
+    "jornada": {
+      "começo👶🏻": "Um simples 'Hello World'",
+      "evolução🚀": "Projetos pessoais",
+      "fraseDeEfeito": "Sempre escolha o mago!🧙‍♂️"
+      }
+  }
+  ```
+  <div align="center">
+    <img src="https://github.com/moiseslimma/moiseslimma/assets/120216664/a74a0356-698a-4d7c-a0cd-e2ad16e6474a" width="500">
+  </div>
 
 <br>
 
-![Me GitHub stats](https://github-readme-stats.vercel.app/api?username=moiseslimma&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moiseslimma&theme=radical&layout=compact)
+![Me GitHub stats](https://github-readme-stats.vercel.app/api?username=moiseslimma&show_icons=true&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moiseslimma&theme=cobalt&layout=compact)
 
 <br>
 
