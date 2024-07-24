@@ -18,12 +18,12 @@
   }
   ```
   <div align="center">
-    <img src="https://github.com/moiseslimma/moiseslimma/assets/120216664/a74a0356-698a-4d7c-a0cd-e2ad16e6474a" width="500">
+    <img src="https://github.com/moiseslimma/moiseslimma/assets/120216664/a74a0356-698a-4d7c-a0cd-e2ad16e6474a" width="390">
   </div>
 
 <br>
 
-![Me GitHub stats](https://github-readme-stats.vercel.app/api?username=moiseslimma&show_icons=true&theme=cobalt)
+![Me GitHub stats](https://github-readme-stats.vercel.app/api?username=moiseslimma&hide=issues&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moiseslimma&theme=cobalt&layout=compact)
 
 <br>
