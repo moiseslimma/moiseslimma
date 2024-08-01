@@ -23,8 +23,11 @@
 
 <br>
 
-![Me GitHub stats](https://github-readme-stats.vercel.app/api?username=moiseslimma&hide=issues&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moiseslimma&theme=cobalt&layout=compact)
+<div justif-content="space-between">
+  <img src="https://github-readme-stats.vercel.app/api?username=moiseslimma&hide=issues&show_icons=true&theme=cobalt" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiseslimma&theme=cobalt&layout=compact" height="170em" />
+</div>
+
 
 <br>
 
