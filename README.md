@@ -12,7 +12,7 @@
     "🎓": "Formado em Sistemas para Internet",
     "caminho": {
       "começo👶🏻": "Um simples 'Hello World'",
-      "[Meu site 🚀]": "https://moiseslimma.github.io/thesite",
+      "site🚀": "[visite o site](https://moiseslimma.github.io/thesite)",
       "fraseDeEfeito": "Sempre escolha o mago!🧙‍♂️"
     }
   }
