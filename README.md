@@ -5,18 +5,19 @@
 
 <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,react,css,tailwind,html,&theme=dark"/>                               
 
-  ```json
-  {
-    "🙋🏻‍♂️": "Moisés Lima",
-    "👨🏻‍💻": "Desenvolvedor",
-    "🎓": "Formado em Sistemas para Internet",
-    "caminho": {
-      "começo👶🏻": "Um simples 'Hello World'",
-      "site🚀": "[visite o site](https://moiseslimma.github.io/thesite)",
-      "fraseDeEfeito": "Sempre escolha o mago!🧙‍♂️"
-    }
-  }
-  ```
+ ## 🧙‍♂️ Status do Player
+
+> **nome:** "Moisés Lima"  
+> **classe:** "👨🏻‍💻 Desenvolvedor"  
+> **level:** "🎓 Formado em Sistemas para Internet"
+
+### ⚔️ Missões
+- 👶🏻 **Primeira Quest:** Um simples `Hello World`
+- 🚀 **Portal:** [Visite o site](https://moiseslimma.github.io/thesite)
+- ✨ **Frase de Efeito:** "Sempre escolha o mago!🧙‍♂️"
+
+
+
   <div align="center">
     <img src="https://github.com/moiseslimma/moiseslimma/assets/120216664/a74a0356-698a-4d7c-a0cd-e2ad16e6474a" width="390">
   </div>
