@@ -9,10 +9,10 @@
   {
     "🙋🏻‍♂️": "Moisés Lima",
     "👨🏻‍💻": "Desenvolvedor",
-    "🎓": "Cursando Sistemas para Internet",
-    "jornada": {
+    "🎓": "Formado em Sistemas para Internet",
+    "caminho": {
       "começo👶🏻": "Um simples 'Hello World'",
-      "evolução🚀": "Projetos pessoais",
+      "site🚀": "https://moiseslimma.github.io/thesite",
       "fraseDeEfeito": "Sempre escolha o mago!🧙‍♂️"
     }
   }
