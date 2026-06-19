@@ -3,18 +3,19 @@
 
 ## My Skills
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,js,react,css,tailwind,html,&theme=dark"/>                               
+<img src="https://skillicons.dev/icons?i=linux,kali,windows,py,js,bash,&theme=dark"/>                               
 
  ## 🧙‍♂️ Status do Player
 
 > **nome:** "Moisés Lima"  
-> **classe:** "👨🏻‍💻 Desenvolvedor"  
+> **classe:** "👨🏻‍💻 SOC tier 1"  
 > **level:** "🎓 Formado em Sistemas para Internet"
 
 ### ⚔️ Missões
 - 👶🏻 **Primeira Quest:** Um simples `Hello World`
-- 🚀 **Portal:** [Visite o site](https://moiseslimma.github.io/thesite)
+- 🚀 **Portal:** [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MoiSes.png)](https://tryhackme.com/p/MoiSes)
 - ✨ **Frase de Efeito:** "Sempre escolha o mago!🧙‍♂️"
+<!-- - 🚀 **Portal:** [Visite o site](https://moiseslimma.github.io/thesite) -->
 
 
 
@@ -23,11 +24,6 @@
   </div>
 
 <br>
-
-<div justif-content="space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=moiseslimma&hide=issues&show_icons=true&theme=cobalt" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moiseslimma&theme=cobalt&layout=compact" height="170em" />
-</div>
 
 
 <br>
