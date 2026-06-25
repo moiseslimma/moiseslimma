@@ -11,7 +11,7 @@
 > **classe:** "👨🏻‍💻 SOC tier 1"  
 > **level:** "🎓 Formado em Sistemas para Internet"
 
-### ⚔️ Missões
+### ⚔️ Missions
 - 👶🏻 **Primeira Quest:** Um simples `Hello World`
 - 🚀 **Portal:** [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MoiSes.png)](https://tryhackme.com/p/MoiSes)
 - ✨ **Frase de Efeito:** "Sempre escolha o mago!🧙‍♂️"
