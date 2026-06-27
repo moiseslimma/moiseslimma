@@ -3,7 +3,7 @@
 
 ## My Skills
 
-<img src="https://skillicons.dev/icons?i=linux,kali,windows,py,js,bash,&theme=dark"/>                               
+<img src="https://skillicons.dev/icons?i=linux,kali,windows,py,js,&theme=dark"/>                               
 
  ## 🧙‍♂️ Status do Player
 
