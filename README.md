@@ -7,14 +7,12 @@
 
  ## 🧙‍♂️ Status do Player
 
-> **nome:** "Moisés Lima"  
-> **classe:** "👨🏻‍💻 SOC tier 1"  
-> **level:** "🎓 Formado em Sistemas para Internet"
+> **Nome:** "Moisés Lima"  
+> **Classe:** "👨🏻‍💻 SOC tier 1"  
+> **Level:** "🎓 Formado em Sistemas para Internet"  
+> **Frase de Efeito:** "Sempre escolha o mago 🧙‍♂️"  
+> **Portal:** [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MoiSes.png)](https://tryhackme.com/p/MoiSes)  
 
-### ⚔️ Missions
-- 👶🏻 **Primeira Quest:** Um simples `Hello World`
-- 🚀 **Portal:** [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/MoiSes.png)](https://tryhackme.com/p/MoiSes)
-- ✨ **Frase de Efeito:** "Sempre escolha o mago!🧙‍♂️"
 <!-- - 🚀 **Portal:** [Visite o site](https://moiseslimma.github.io/thesite) -->
 
 
