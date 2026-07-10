@@ -1,9 +1,8 @@
 ### Hello World, I\'m Moises 👋
 
-
 ## My Skills
 
-<img src="https://skillicons.dev/icons?i=linux,kali,windows,py,js,&theme=dark"/>                               
+<img src="https://skillicons.dev/icons?i=linux,kali,windows,py,js,&theme=dark"/>       
 
  ## 🧙‍♂️ Status do Player
 
@@ -15,11 +14,11 @@
 
 <!-- - 🚀 **Portal:** [Visite o site](https://moiseslimma.github.io/thesite) -->
 
-
-
   <div align="center">
-    <img src="https://github.com/moiseslimma/moiseslimma/assets/120216664/a74a0356-698a-4d7c-a0cd-e2ad16e6474a" width="390">
+    <img width="650" height="400" alt="ChatGPT Image 9 de jul  de 2026, 02_44_33" src="https://github.com/user-attachments/assets/a930e861-8780-49c0-b878-41eb85308d70" />
   </div>
+
+
 
 <br>
 
