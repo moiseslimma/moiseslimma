@@ -15,7 +15,7 @@
 <!-- - 🚀 **Portal:** [Visite o site](https://moiseslimma.github.io/thesite) -->
 
   <div align="center">
-    <img width="600" height="390" alt="ChatGPT Image 9 de jul  de 2026, 02_44_33" src="https://github.com/user-attachments/assets/a930e861-8780-49c0-b878-41eb85308d70" />
+    <img width="550" height="350" alt="ChatGPT Image 9 de jul  de 2026, 02_44_33" src="https://github.com/user-attachments/assets/a930e861-8780-49c0-b878-41eb85308d70" />
   </div>
 
 
